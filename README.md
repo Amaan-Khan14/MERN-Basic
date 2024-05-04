@@ -1,7 +1,7 @@
 # Project Name
 
-#Student Registrston Form 
-
+# Student Registrston Form 
+ 
 ## Description
 
 This is a MERN stack application that allows students to register with basic information. It utilizes the following technologies:
