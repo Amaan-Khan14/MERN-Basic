@@ -38,7 +38,7 @@ Download and install MongoDB from the official website: [https://www.mongodb.com
 ### Clone the Repository
 
 ```bash
-git clone https://https://github.com/Amaan-Khan14/MERN-Basic
+git clone https://https://github.com/Amaan-Khan14/MERN-Basic.git
 cd MERN-Basic
 ```
 
