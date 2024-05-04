@@ -70,6 +70,7 @@ This will create an optimized production build of your React application in the 
 
 ## Usage
 1.Visit http://localhost:5000 in your browser.
+
 2.Use the /details endpoint to register a new student by sending a POST request with the student data in the request body. The required student data includes:
 * Name
 * Email
